@@ -37,7 +37,7 @@ A powerful JavaFX desktop application that compares product prices, ratings, and
 ### Installation
 
 1. **Clone the repository**
-git clone https://github.com/armanpanigrahi59/ecommerce-analyzer.git
+git clone https://github.com/vanshikasingh28/ecommerce-analyzer.git
 cd ecommerce-analyzer
 2. **Set up PostgreSQL Database**
 Open psql
@@ -88,8 +88,8 @@ db.password=your_password
 
 ## 👨‍💻 Author
 
-**Arman Panigrahi**
-- GitHub: [@armanpanigrahi59](https://github.com/armanpanigrahi59)
+**Vanshika Singh**
+- GitHub: [@vanshikasingh28](https://github.com/vanshikasingh28)
 
 
 
